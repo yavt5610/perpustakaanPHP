@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 45%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #a5a5a5;
+}
+
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
